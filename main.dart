@@ -20,7 +20,7 @@ class ConsoleBank {
 
   String accountName;
   int accountNumber;
-  double _accountBalance = 52600.00;
+  double _accountBalance = 0.00;
 
 
   ConsoleBank({this.accountName, this.accountNumber});
